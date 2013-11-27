@@ -3,7 +3,7 @@
 
 # 目录
 
-# [第1章 递归] (https://github.com/JiYou/book/tree/master/concrete_mathematics)
+# [第1章 递归] (https://github.com/JiYou/book/tree/master/concrete_mathematics/chap01)
 ###[1.1  汉诺塔] (https://github.com/JiYou/book/tree/master/concrete_mathematics/chap01/section01)
 ###[1.2  平面切分] (https://github.com/JiYou/book/tree/master/concrete_mathematics/chap01/section02)
 ###[1.3  约瑟夫问题] (https://github.com/JiYou/book/tree/master/concrete_mathematics/chap01/section03)
